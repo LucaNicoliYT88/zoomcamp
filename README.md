@@ -1,3 +1,3 @@
 # zoomcamp
 
-Code for Data Talk zoomcamp camp
+Code for Data Talks zoomcamp camp
